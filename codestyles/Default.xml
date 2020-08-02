@@ -5,6 +5,8 @@
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="140" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="SOFT_MARGINS" value="140" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
