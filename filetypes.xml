@@ -17,7 +17,9 @@
       <mapping pattern="yarn/RM/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="round9/host_to_release" type="PLAIN_TEXT" />
       <mapping pattern="hive/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".rvmrc" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-22" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-23" type="PLAIN_TEXT" />
       <mapping ext="2018-10-12-00" type="PLAIN_TEXT" />
