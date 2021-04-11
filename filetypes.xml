@@ -4,8 +4,8 @@
       <mapping pattern="emrctl" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="sparkmagic/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="aws_cli" type="PLAIN_TEXT" />
       <mapping pattern="host_to_release" type="PLAIN_TEXT" />
