@@ -14,8 +14,8 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="yarn/RM/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="round9/host_to_release" type="PLAIN_TEXT" />
-      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="sparkmagic/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="hive/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
