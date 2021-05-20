@@ -16,6 +16,7 @@
       <mapping pattern="csv_test-ap-northeast-1" type="AUTO_DETECTED" />
       <mapping pattern="results-ap-northeast-1" type="AUTO_DETECTED" />
       <mapping pattern="config/controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="aws_cli" type="PLAIN_TEXT" />
