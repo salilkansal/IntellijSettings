@@ -1,9 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="csv_test-us-west-2" type="AUTO_DETECTED" />
+      <mapping pattern="python-builds" type="AUTO_DETECTED" />
+      <mapping pattern="controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
+      <mapping pattern="test-controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
       <mapping pattern="emrctl" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-east-1" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-west-2" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-west-1" type="AUTO_DETECTED" />
+      <mapping pattern="build-tools/bin/python-builds" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="csv_test-us-east-1" type="AUTO_DETECTED" />
+      <mapping pattern="csv_test-ap-northeast-1" type="AUTO_DETECTED" />
+      <mapping pattern="results-ap-northeast-1" type="AUTO_DETECTED" />
+      <mapping pattern="config/controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -21,8 +32,10 @@
       <mapping pattern="hive/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-22" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-23" type="PLAIN_TEXT" />
+      <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="2018-10-12-00" type="PLAIN_TEXT" />
       <mapping pattern="jobrun" type="Shell Script" />
       <mapping pattern="config-spark-cluster-kansalil-2" type="YAML" />
