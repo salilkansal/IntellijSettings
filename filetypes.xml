@@ -1,38 +1,38 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="csv_test-us-west-2" type="AUTO_DETECTED" />
-      <mapping pattern="python-builds" type="AUTO_DETECTED" />
-      <mapping pattern="controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
-      <mapping pattern="test-controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
-      <mapping pattern="emrctl" type="AUTO_DETECTED" />
-      <mapping pattern="results-us-east-1" type="AUTO_DETECTED" />
-      <mapping pattern="results-us-west-2" type="AUTO_DETECTED" />
-      <mapping pattern="results-us-west-1" type="AUTO_DETECTED" />
-      <mapping pattern="build-tools/bin/python-builds" type="AUTO_DETECTED" />
-      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping pattern="csv_test-us-east-1" type="AUTO_DETECTED" />
-      <mapping pattern="csv_test-ap-northeast-1" type="AUTO_DETECTED" />
       <mapping pattern="results-ap-northeast-1" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-east-1" type="AUTO_DETECTED" />
       <mapping pattern="config/controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="emrctl" type="AUTO_DETECTED" />
+      <mapping pattern="csv_test-us-west-2" type="AUTO_DETECTED" />
+      <mapping pattern="csv_test-ap-northeast-1" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-west-2" type="AUTO_DETECTED" />
+      <mapping pattern="build-tools/bin/python-builds" type="AUTO_DETECTED" />
+      <mapping pattern="results-us-west-1" type="AUTO_DETECTED" />
+      <mapping pattern="python-builds" type="AUTO_DETECTED" />
+      <mapping pattern="test-controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
+      <mapping pattern="controlplane-regions-accounts-roles" type="AUTO_DETECTED" />
+      <mapping pattern="csv_test-us-east-1" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="aws_cli" type="PLAIN_TEXT" />
-      <mapping pattern="host_to_release" type="PLAIN_TEXT" />
-      <mapping pattern="amazonlinux/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="perl_pi" type="PLAIN_TEXT" />
-      <mapping pattern="ubuntu/DockerFile" type="PLAIN_TEXT" />
-      <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern="yarn/RM/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="round9/host_to_release" type="PLAIN_TEXT" />
-      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="sparkmagic/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="release" type="PLAIN_TEXT" />
-      <mapping pattern="hive/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="aws_cli" type="PLAIN_TEXT" />
+      <mapping pattern="hostclasses" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="host_to_release" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="round9/host_to_release" type="PLAIN_TEXT" />
+      <mapping pattern="perl_pi" type="PLAIN_TEXT" />
+      <mapping pattern="hive/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="ubuntu/DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="amazonlinux/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="yarn/RM/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-22" type="PLAIN_TEXT" />
       <mapping ext="2018-10-11-23" type="PLAIN_TEXT" />
@@ -40,11 +40,13 @@
       <mapping ext="2018-10-12-00" type="PLAIN_TEXT" />
       <mapping pattern="jobrun" type="Shell Script" />
       <mapping pattern="config-spark-cluster-kansalil-2" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
