@@ -25,6 +25,7 @@
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="host_to_release" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="round9/host_to_release" type="PLAIN_TEXT" />
       <mapping pattern="perl_pi" type="PLAIN_TEXT" />
