@@ -22,6 +22,7 @@
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="aws_cli" type="PLAIN_TEXT" />
       <mapping pattern="hostclasses" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="host_to_release" type="PLAIN_TEXT" />
