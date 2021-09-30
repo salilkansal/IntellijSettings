@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file:///Volumes/workplace/AwsChicagoConfig/src/AwsChicagoSDCConfigData/lib/amazon/sdc/FACPolicies/ChicagoDynamoDBRetryFeaturePolicy.rb" />
+        <option value="file://$USER_HOME$/Downloads/ca-logs-13sep.txt" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -17,6 +18,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="2179" y="-201" width="1400" height="970" />
     </option>
   </component>
 </application>
